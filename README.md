@@ -1,6 +1,6 @@
 # project_java
 objective of the project:
-    Build an desktop applicatio for my college for managing visitors details.
+    Build an desktop application for my college for managing visitors details.
     
 Technology used:
     Java(Swing), oracle Database
